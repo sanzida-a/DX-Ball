@@ -1,0 +1,8 @@
+﻿Build started 4/7/2020 7:37:43 PM.
+     1>Project "F:\edu\Library\Hacking books\Game\DX-BALL\DX-BALL\DX-BALL.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v142 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v142 to build using the v142 build tools.
+     1>Done Building Project "F:\edu\Library\Hacking books\Game\DX-BALL\DX-BALL\DX-BALL.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.00
